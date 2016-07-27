@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material Colors Wallpaper</string>
+    <string name="colors">Chosoe a color</string>
+    <string name="wallpaper">Wallpaper</string>
+</resources>
